@@ -1,3 +1,5 @@
+# This repository has been archived under `pulsar-edit` due to no longer being in use.
+
 api
 ===
 
